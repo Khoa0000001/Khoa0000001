@@ -1,8 +1,12 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoa0000001)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoa0000001&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoa0000001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoa0000001&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoa0000001&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoa0000001&show_icons=true&bg_color=00000000)
+### WELCOME TO MY PAGE 👋👋👋
+My name is Dao Duc Khoa. I am a 4th-year student at the University of Technical Education Hung Yen (UTEHY), majoring in Web Development. <br>
+## 📫 How to reach me: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khoa0000001&repo=F8-DA04)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khoa0000001&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/vietnh1009/QuickDraw/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khoa0000001&repo=F8-DA04&theme=radical" />
+</a>    
