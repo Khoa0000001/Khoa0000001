@@ -13,13 +13,13 @@ My name is Dao Duc Khoa. I am a 4th-year student at the University of Technical 
 </a>
 <a href="https://github.com/Khoa0000001/F8-reacjs/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khoa0000001&repo=F8-reacjs&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khoa0000001&repo=F8-reacjs&theme=merko" />
 </a>
 <a href="https://github.com/Khoa0000001/Music-player/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khoa0000001&repo=Music-player&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khoa0000001&repo=Music-player&theme=gruvbox" />
 </a>
 <a href="https://github.com/Khoa0000001/Backend_G-ex/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khoa0000001&repo=Backend_G-ex&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khoa0000001&repo=Backend_G-ex&theme=dark" />
 </a>
